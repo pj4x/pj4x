@@ -2,7 +2,7 @@
 - 👀 I’m interested in c-like languages
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on low level stuff, game dev or game engine dev
-- 📫 How to reach me 
+- 📫 How to reach me e-mail
 
 <!---
 pj4x/pj4x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
